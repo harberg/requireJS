@@ -1,0 +1,20 @@
+{
+  "name": "require",
+  "version": "0.0.0",
+  "homepage": "https://github.com/harberg/requireJS",
+  "authors": [
+    "Nick Harberg <nick@seamonsterstudios.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "jquery": "~2.1.1"
+  }
+}
